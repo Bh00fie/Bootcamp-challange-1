@@ -6,7 +6,6 @@
     margin: 0;
 }
 
-
 /* Body */
 body {
     background-color: #d9dcd6;
@@ -116,13 +115,13 @@ p { /* Stylying applied to all paragraphs in the HTML File */
 }
 
 /* Footer */
-/* Footer is not a class anymore */
+/* Footer is not a class anymore and h2 changed to h3 to follow semantic structure */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-footer h2 {
+footer h3 {
     font-size: 20px;
 }
