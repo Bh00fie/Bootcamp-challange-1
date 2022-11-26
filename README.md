@@ -1,4 +1,4 @@
-# Horiseon - SEO and Digital Marketing (Bootcamp Challange One) 
+# Horiseon - SEO and Digital Marketing 
 
 ## Introduction and Description
 
@@ -17,8 +17,7 @@ Even though accessibility is a broad topic that can include complex requirements
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
-The update website can be found at: https://bh00fie.github.io/Bootcamp-challange-1/
-Lastly, if your project is deployed, include a link to the deployed application here.
+The update website can be found at: https://bh00fie.github.io/Horiseon-SEO-and-Digital-Marketing/
 
 ## Changes 
 
